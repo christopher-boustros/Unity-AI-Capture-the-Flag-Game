@@ -1,5 +1,6 @@
 # Unity AI Capture the Flag Game
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/christopher-boustros/Unity-AI-Capture-the-Flag-Game)
+![GitHub code size](https://img.shields.io/github/languages/code-size/christopher-boustros/Unity-AI-Capture-the-Flag-Game "Code size")
+![GitHub license](https://img.shields.io/github/license/christopher-boustros/Unity-AI-Capture-the-Flag-Game "License")
 
 A 3D first-person capture the flag game made with Unity in which the player must capture a treasure chest guarded by a Hierarchical Task Network (HTN) based AI. The game also contains mice controlled by steering behaviors to obstruct the player's motion. This was made as part of a course assignment for COMP 521 Modern Computer Games in fall 2020 at McGill University.
 
